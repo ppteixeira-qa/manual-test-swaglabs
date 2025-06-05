@@ -6,4 +6,4 @@ Passos:
 3. Clicar em "Entrar"
 Resultado Esperado: Usuário é redirecionado para o dashboard
 - **Evidência:**
-  ![Login bem-sucedido](../evidencias/login-ok.png)
+  ![Login bem-sucedido](https://github.com/ppteixeira-qa/manual-tests/blob/main/evidencias/login-ok.png)
