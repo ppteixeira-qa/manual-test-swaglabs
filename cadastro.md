@@ -8,4 +8,4 @@ Passos
 Resultado Esperado: Mensagem de erro "Epic sadface: Username and password do not match any user in this service" exibida.
 
 **Evidência:**
-  ![Login com sucesso] (../evidencias/usuário-inválido-ok.png)
+  ![Login com sucesso](https://github.com/ppteixeira-qa/manual-tests/blob/main/evidencias/usuário-inválido-ok.png)
