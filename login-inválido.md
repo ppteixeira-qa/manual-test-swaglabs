@@ -1,6 +1,6 @@
-Cenário: Cadastro com e-mail inválido
+Cenário: Login com e-mail inválido
 
-Pré-condições:	Acesso à tela de cadastro
+Pré-condições:	Acesso à tela de login
 Passos	
 1. Inserir usuário inválido (ppt_user@)
 3. Inserir senhe válida
