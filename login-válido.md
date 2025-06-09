@@ -1,5 +1,5 @@
-ID do Teste
 Pré-condições:	Usuário cadastrado no sistema
+
 Passos:
 1. Acessar a tela de login
 2. Inserir e-mail e senha válidos
