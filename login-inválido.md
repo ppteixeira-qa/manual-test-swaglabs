@@ -5,8 +5,9 @@ Pré-condições:	Acesso à tela de login
 Passos	
 1. Acessar a tela de login
 2. Inserir login inválido
-3. Inserir senhe válida
+3. Inserir senha válida
 4. Clicar em "Login"
+   
 Resultado Esperado: Mensagem de erro "Epic sadface: Username and password do not match any user in this service" exibida.
 
 **Evidência:**
