@@ -3,9 +3,9 @@ Cenário: Login com e-mail inválido
 Pré-condições:	Acesso à tela de login
 
 Passos	
-1. Acessar a tela de login
-2. Inserir login inválido
-3. Inserir senha válida
+1. Acessar a tela de login (https://www.saucedemo.com/v1/index.html)
+2. Inserir username inválido
+3. Inserir password válido
 4. Clicar em "Login"
    
 Resultado Esperado: Mensagem de erro "Epic sadface: Username and password do not match any user in this service" exibida.
