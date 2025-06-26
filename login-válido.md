@@ -1,3 +1,5 @@
+Cenário: Login Válido
+
 Pré-condições:	Usuário cadastrado no sistema
 
 Passos:
