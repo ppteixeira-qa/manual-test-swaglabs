@@ -1,4 +1,4 @@
-# Teste Manual - Projeto Fictício de QA
+# Teste Funcional - Projeto Fictício de QA
 📌 **Este projeto é fictício e criado para fins educacionais.**
 
 Este repositório contém exemplo de teste manual aplicados a um sistema fictício com foco em práticas de QA (Quality Assurance).
